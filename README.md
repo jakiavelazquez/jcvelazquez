@@ -6,36 +6,29 @@
   
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/jlcosby/">
+    <a href="https://www.linkedin.com/in/jakia-velazquez-1686a5251">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://medium.com/@jennelle.cosby">
+    <a href="https://medium.com/@jakiavelazquez">
       <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
-    <a href="https://www.instagram.com/ms_codedependent/">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-    </a>
-    <a href="https://twitter.com/tuvwxyandz">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=jlcosby&style=flat-square&color=blue" alt="views"/>
+     <img src="https://komarev.com/ghpvc/?username=jakiavelazquez&style=flat-square&color=blue" alt="views"/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" height="250"/>
 </div>
 
 ---
 
 ### :woman_technologist: About Me :<img src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif" height="200" align="right">
 I am a career switcher -- :teacher: --> :computer:
-- :mag_right:  Currently serving as an Apprentice DevOps Engineer
+- ☁️  Currently learning and playing in the Cloud
 
 - :telescope: Exploring CI/CD pipelines and Kubernetes.
 
-- :zap: In my free time, I read all of the :books: and collect :pen: :pencil2: :blue_book:, drink :coffee: and :tea:, watch :ghost: :movie_camera:
+- :zap: In my free time, I read all of the :books: and collect :pen: :pencil2: :blue_book:, drink :tea:, watch and :movie_camera:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jlcosby/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/mscodedependent)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakia-velazquez-1686a5251)
 
 ---
 
@@ -66,8 +59,8 @@ I am a career switcher -- :teacher: --> :computer:
 
 ### :fire: My Stats :
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlcosby&theme=material-palenight&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jakiavelazquez&theme=material-palenight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlcosby&theme=material-palenight&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakiavelazquez&theme=material-palenight&layout=compact" />
 </a>
