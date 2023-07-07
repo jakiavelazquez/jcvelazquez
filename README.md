@@ -26,7 +26,7 @@ I am a career switcher -- :teacher: --> :computer:
 
 - :telescope: Exploring CI/CD pipelines and Kubernetes.
 
-- :zap: In my free time, I read all of the :books: and collect :pen: :pencil2: :blue_book:, drink :tea:, watch and :movie_camera:
+- :zap: In my free time, I read all of the :books: and collect :pen: :pencil2: :blue_book:, drink :tea:, and watch :movie_camera:
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakia-velazquez-1686a5251)
 
